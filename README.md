@@ -1,4 +1,4 @@
-Application "Mock" built with REST Java (JAX-RS) and Jersey for universi.me
+<h1>Application "Mock" built with REST Java (JAX-RS) and Jersey for universi.me
 
 Universi.me is a social network that will integrate academic students,
 alumni, lecturer and staff in an environment to exchange information.
@@ -30,3 +30,4 @@ Doubts?
 
 Contact diego@diegosousa.com
 
+[]'s
